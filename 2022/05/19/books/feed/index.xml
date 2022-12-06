@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Комментарии на сайте aleorrum.pp.ua	</title>
-	<atom:link href="https://aleorrum.github.io/dense-forest/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://aleorrum.github.io/dense-forest/</link>
+	Комментарии: Книжки	</title>
+	<atom:link href="https://aleorrum.github.io/dense-forest/2022/05/19/books/feed/" rel="self" type="application/rss+xml" />
+	<link>https://aleorrum.github.io/dense-forest/2022/05/19/books/</link>
 	<description>🌿dense forest🌿</description>
 	<lastBuildDate>Tue, 06 Dec 2022 07:12:26 +0000</lastBuildDate>
 	<sy:updatePeriod>
